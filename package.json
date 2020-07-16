@@ -1,0 +1,20 @@
+{
+  "name": "cron-jobs-node",
+  "version": "1.0.0",
+  "description": "Example of Node.js scheduled job",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "cron-jobs"
+  ],
+  "author": "Gabriele Canepa <contact@gabrielecanepa.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "node-cron": "^2.0.3"
+  }
+}
